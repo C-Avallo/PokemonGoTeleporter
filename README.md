@@ -1,2 +1,3 @@
 # PokeGoTeleporter
-Well, a teleporter
+An Introduction project into Python
+
